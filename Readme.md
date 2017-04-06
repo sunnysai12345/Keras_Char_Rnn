@@ -1,4 +1,4 @@
-# Charecter based RNN using Keras
+# Character based RNN using Keras
 Credits:machinelearningmastery.com
 
 Predicting new charecter based on previous 100 chars.
